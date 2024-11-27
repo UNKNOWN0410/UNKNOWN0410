@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UNKNOWN0410
+- 👀 I’m interested in cyber security
+- 💞️ I’m looking to collaborate on projects on raspberry pi 
+- 📫 How to reach me instagram-shivv_paradox
+- ⚡ Fun fact: FUCK AROUND AND FIND OUT
