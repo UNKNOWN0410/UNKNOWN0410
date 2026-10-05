@@ -1,23 +1,51 @@
-- 👋 Hi, I’m @UNKNOWN0410
-- 👀 I’m interested in cyber security
-- 💞️ I’m looking to collaborate on projects on raspberry pi 
-- ⚡ Fun fact: FUCK AROUND AND FIND OUT
+```console
+shiv@gamit:~$ whoami
+Shiv Gamit — Offensive Security & OSINT
+```
 
+B.Tech CSE (Cyber Security) student at UIT, Karnavati University, Ahmedabad. I learn by building: when I wanted to understand port scanning I wrote a scanner, when I wanted to understand recon I built a framework for it. Now applying that to **web application pentesting** and **bug bounty**.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UNKNOWN unknown_4414 Invisible) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@shivv_paradox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shiv-gamit-2a2148294) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UNKNOWN0410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UNKNOWN0410&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UNKNOWN0410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+🎯 **Open to internships** in penetration testing / OSINT analysis &nbsp;·&nbsp; 🌐 [unknown0410.github.io](https://unknown0410.github.io)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UNKNOWN0410&icon=3&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 What I've built
+
+| Project | What it does |
+|---|---|
+| 🔍 [**osint-recon**](https://github.com/UNKNOWN0410/osint-recon) | Passive recon framework: subdomains from certificate transparency, Wayback URL harvesting, Google dorking for exposed files/configs/admin panels, risk scoring, SQLite storage and Markdown reports |
+| 🛡️ [**pi-sentinel**](https://github.com/UNKNOWN0410/pi-sentinel) | Home-network monitor for Raspberry Pi: SSH brute-force auto-blocking (iptables), connection-flood and new-listener detection, Have I Been Pwned checks, Telegram alerts — stdlib-only Python |
+| 🏆 **IRIS** | Threat-intel aggregator — one API call queries VirusTotal, AbuseIPDB, Shodan and IPInfo in parallel. **1st place, cyber track**, 36-hr hackathon at UIT-KU (team of 6) |
+
+### 🏁 Highlights
+
+- 🥇 1st place, cyber track — 36-hour hackathon, UIT-KU
+- 🐞 IIT Roorkee × BugTrooper live hacking event (Mar 2026)
+- 🚩 [TryHackMe](https://tryhackme.com/p/shivgamit989) — top 35%, OSINT-heavy
+- 🧪 Home lab: Kali Linux on a Raspberry Pi 5 (key-only SSH, Tailscale)
+
+### 🧰 Toolkit
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📈 Currently
+
+- Working through the PortSwigger Web Security Academy (SQLi → XSS → access control)
+- Extending osint-recon into a full attack-surface mapper
+
+### 📫 Reach me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3DDC97?style=flat-square&logo=githubpages&logoColor=black)](https://unknown0410.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-gamit-2a2148294)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shivgamit989)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.shiv01@gmail.com)
+
+<sub>Everything I test is my own lab or in-scope targets only.</sub>
