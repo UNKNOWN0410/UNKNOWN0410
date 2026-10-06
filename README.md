@@ -3,7 +3,7 @@ shiv@gamit:~$ whoami
 Shiv Gamit — Offensive Security & OSINT
 ```
 
-B.Tech CSE (Cyber Security) student at UIT, Karnavati University, Ahmedabad. I learn by building: when I wanted to understand port scanning I wrote a scanner, when I wanted to understand recon I built a framework for it. Now applying that to **web application pentesting** and **bug bounty**.
+B.Tech CSE (Cyber Security) student at UIT, Karnavati University. I learn by building: when I wanted to understand port scanning I wrote a scanner, when I wanted to understand recon I built a framework for it. Now applying that to **web application pentesting** and **bug bounty**.
 
 🎯 **Open to internships** in penetration testing / OSINT analysis &nbsp;·&nbsp; 🌐 [unknown0410.github.io](https://unknown0410.github.io)
 
@@ -14,6 +14,7 @@ B.Tech CSE (Cyber Security) student at UIT, Karnavati University, Ahmedabad. I l
 | Project | What it does |
 |---|---|
 | 🔍 [**osint-recon**](https://github.com/UNKNOWN0410/osint-recon) | Passive recon framework: subdomains from certificate transparency, Wayback URL harvesting, Google dorking for exposed files/configs/admin panels, risk scoring, SQLite storage and Markdown reports |
+| 📡 [**portscout**](https://github.com/UNKNOWN0410/portscout) | Multithreaded TCP port scanner in pure Python: ping-sweep host discovery, connect scan, banner grabbing, risk flagging for Telnet/FTP/SMB/open databases, JSON/CSV reports |
 | 🛡️ [**pi-sentinel**](https://github.com/UNKNOWN0410/pi-sentinel) | Home-network monitor for Raspberry Pi: SSH brute-force auto-blocking (iptables), connection-flood and new-listener detection, Have I Been Pwned checks, Telegram alerts — stdlib-only Python |
 | 🏆 **IRIS** | Threat-intel aggregator — one API call queries VirusTotal, AbuseIPDB, Shodan and IPInfo in parallel. **1st place, cyber track**, 36-hr hackathon at UIT-KU (team of 6) |
 
