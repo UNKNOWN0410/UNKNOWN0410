@@ -22,7 +22,7 @@ B.Tech CSE (Cyber Security) student at UIT, Karnavati University. I learn by bui
 
 - 🥇 1st place, cyber track — 36-hour hackathon, UIT-KU
 - 🐞 IIT Roorkee × BugTrooper live hacking event (Mar 2026)
-- 🚩 [TryHackMe](https://tryhackme.com/p/shivgamit989) — top 35%, OSINT-heavy
+- 🚩 [TryHackMe](https://tryhackme.com/p/shivgamit989) — top 30%, 12 rooms, OSINT-heavy ([Sakura write-up](https://unknown0410.github.io/writeups/sakura/))
 - 🧪 Home lab: Kali Linux on a Raspberry Pi 5 (key-only SSH, Tailscale)
 
 ### 🧰 Toolkit
